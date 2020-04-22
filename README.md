@@ -2,10 +2,12 @@
 
 ## Corporate 
 For Document Retention Policies, GDPR, CCPA, and other Generalized Compliance please see our [omnibus documentation](https://freight-chain.github.io/obm)
-# Instrumentalisation Process: Bringing about dematerialization at-scale while retaining contractual/property rights
 
 
-### Generalized Instrument Wrapping Facility
+#### Instrumentalisation Process: Bringing about dematerialization at-scale while retaining contractual/property rights
+
+
+##### Generalized Instrument Wrapping Facility
 Parts of this are licensed under the BSD-3 Clause License, Apache 2.0 and MIT. No AGPL Licnesed products are used.
 
 **ERC777 implementation - Advanced token standard for asset transfers**
@@ -39,7 +41,7 @@ Enables Agreement to be as homogenized or unique as needed, thereby extending th
 <br>
 
 
-## Definitions and Specifications 
+##### Definitions and Specifications 
 
 <br>
 a **registry** is a deployed contract which manages a collection of packages.
@@ -87,7 +89,7 @@ Registry -> Package [libsol, kernel...] -> Release [specific contract updates] -
 ```
  External dependency referenced via the build\_dependencies of a package dependency 
  (or by reaching down dependency tree as far as necessary\).
-```
+``
 
 | &lt;/&gt; | Action |
 | :--- | :--- |
@@ -127,13 +129,12 @@ signer.email	The email address of the signer this event is associated with.
 signer.role	The role of the signer this event is associated with. (Templates only)
 signer.order	The signer order sequence number of the signer this event is associated with.\
 
-===
 Software Licensed under the BSD-3 Clause License
 Text Licensed under the (CC BY-NC-ND 2.5) w/ an exception for Academic Derivative works clause. (c) 2019 Freight Trust & Clearing Corporation.
 
 
 
-## Corporate Contact 
+#### Corporate Contact 
 
 FreightTrust and Clearing Corporation
 
