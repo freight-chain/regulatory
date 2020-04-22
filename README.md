@@ -1,5 +1,9 @@
 # Compliance and Regulatory Disclosures and Transparency for Instruments
 
+### Notice
+We use [CalVer](https://calver.org) for our versioning for non-API systems. This includes documentation and all Protocol Contracts. Only the Web API's use Semantic Versioning.
+
+
 ## Corporate 
 For Document Retention Policies, GDPR, CCPA, and other Generalized Compliance please see our [omnibus documentation](https://freight-chain.github.io/obm)
 
