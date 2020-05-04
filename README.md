@@ -20,7 +20,46 @@ For Document Retention Policies, GDPR, CCPA, and other Generalized Compliance pl
 500.23 Severability 
 
 ## MiFR Reports generated 
+```markdown
+<header>
+	body Authority ESMA
+body Authority FCA
+body Organisation ISDA
 
+corpus Regulation "600/2014" MiFIR
+	
+
+corpus Regulation "648/2012" EMIR
+	
+
+corpus CommissionDelegatedRegulation "2017/590" RTS_22
+	 
+
+corpus CommissionDelegatedRegulation "148/2013" ITS_9
+	
+
+corpus ESMA_Q_and_A "09April 2019|ESMA70-1861941480-56" Q_AND_A_MiFIR_DATA_REPORTING
+	
+
+
+corpus ReportingStandard "ISO 20022" ISO_20022
+	
+
+segment rationale
+segment rationale_author
+segment structured_provision
+
+segment article
+segment whereas
+segment annex
+segment table
+segment section
+segment field
+segment paragraph
+segment question
+	
+	<end header>
+```
 
 ```markdown
 report ESMA MiFIR RTS_22 in T+1
