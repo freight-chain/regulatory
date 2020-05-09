@@ -6,7 +6,7 @@ Name
 Freight Trust and Clearing Corporation
 
 Email
-admin@freighttrust.co
+admin@freighttrust.com
 
 Created
 04/30/2020
